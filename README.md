@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ExpressJS,Blender**
 
-- 💬 Ask me about **Blender Python**
+- 💬 Ask me about **Blender,Python**
 
 - 📫 How to reach me **vkaushik13804@gmail.com**
 
