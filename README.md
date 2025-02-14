@@ -58,64 +58,7 @@ const epicQuest = {
 </tr>
 </table>
 
-<div align="center">
 
-## 🌟 SKILL TREE OF LEGENDS 🌟
-
-```mermaid
-mindmap
-  root((LEGENDARY<br>SKILLS))
-    Frontend Arsenal
-      HTML5 Master
-        Semantic Structuring
-        Accessibility Expert
-      CSS3 Wizard
-        Flexbox Sage
-        Grid Master
-        Animation Conjurer
-      JavaScript Archon
-        DOM Manipulator
-        Async Warrior
-        Event Handler
-      UI Framework Magic
-        Bootstrap Summoner
-        TailwindCSS Enchanter
-    Backend Stronghold
-      NodeJS Overlord
-        Server Guardian
-        API Architect
-      ExpressJS Apprentice
-        Route Master
-        Middleware Sage
-      Python Sage
-        Data Sorcerer
-        Automation Master
-      C++ Warlock
-        Memory Manager
-        Performance Optimizer
-    Database Kingdom
-      MongoDB Atlas
-        NoSQL Champion
-        Schema Designer
-      MySQL Oracle
-        Query Master
-        Database Architect
-    3D Reality Forge
-      Blender Artisan
-        Model Creator
-        Texture Wizard
-        Animation Master
-      UnrealEngine Sorcerer
-        World Builder
-        Physics Master
-        Blueprint Crafter
-    Battle Tools
-      Git Version Knight
-      Postman API Tester
-      VSCode Enchanted IDE
-```
-
-</div>
 
 ## 🏆 BATTLE STATISTICS
 
