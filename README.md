@@ -3,9 +3,10 @@
 ```ascii
   ╔══════════════════════════════════════════════════════════════╗
   ║                                                              ║
-  ║   🎮 PLAYER 1                                               ║
+  ║   🎮 PLAYER ONE FOUND                                       ║
   ║   KAUSHIK VISHWAKARMA                                       ║
-  ║   [ DEVELOPER MODE ACTIVATED ]                              ║
+  ║   [ LEGENDARY DEVELOPER MODE: ACTIVATED ]                    ║
+  ║   [ CLASS: FULL-STACK WARRIOR | SPECIALIZATION: 3D ARTIST ] ║
   ║                                                              ║
   ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -20,34 +21,36 @@
 <tr>
 <td width="50%">
 
-### 📌 QUICK STATS
+### 📌 CHARACTER STATS
 ```python
-class Developer:
+class LegendaryDeveloper:
     def __init__(self):
         self.name = "Kaushik Vishwakarma"
-        self.role = "Full Stack Developer"
-        self.art = "3D Modeler"
-        self.language = ["Python", "JavaScript", "C++"]
-        self.learning = ["ExpressJS", "Blender"]
+        self.class_type = "Full Stack Warrior"
+        self.specialization = "3D Battle Mage"
+        self.power_languages = ["Python", "JavaScript", "C++"]
+        self.current_quests = ["ExpressJS", "Blender"]
+        self.special_ability = "Code-Art Fusion"
         
-    def say_hi(self):
-        print("Making the digital world more interesting...")
+    def battle_cry(self):
+        print("Transforming imagination into digital reality...")
 
-me = Developer()
-me.say_hi()
+hero = LegendaryDeveloper()
+hero.battle_cry()
 ```
 
 </td>
 <td width="50%">
 
-### 🎯 CURRENT QUEST
+### 🎯 ACTIVE QUEST LOG
 ```javascript
-// Loading next mission...
-const currentMission = {
-  mainQuest: "Master ExpressJS",
-  sideQuest: "Create Amazing 3D Models",
-  completion: "▓▓▓▓▓▓░░░░░ 60%",
-  nextMilestone: "Building Interactive 3D Web Apps"
+// Loading epic mission details...
+const epicQuest = {
+  mainMission: "Mastering the ExpressJS Saga",
+  sideMission: "Crafting Legendary 3D Artifacts",
+  questProgress: "▓▓▓▓▓▓░░░░░ 60%",
+  epicReward: "Full-Stack Sorcery + 3D Mastery",
+  questStatus: "In Progress - Grinding XP"
 }
 ```
 
@@ -57,45 +60,76 @@ const currentMission = {
 
 <div align="center">
 
-## 💻 SKILL TREE UNLOCKED
+## 🌟 SKILL TREE OF LEGENDS 🌟
 
 ```mermaid
 mindmap
-  root((KAUSHIK))
-    Frontend
-      HTML5
-      CSS3
-      JavaScript
-      Bootstrap
-      TailwindCSS
-    Backend
-      NodeJS
-      ExpressJS
-      Python
-      C++
-    Database
-      MongoDB
-      MySQL
-    3D Skills
-      Blender
-      UnrealEngine
+  root((LEGENDARY<br>SKILLS))
+    Frontend Arsenal
+      HTML5 Master
+        Semantic Structuring
+        Accessibility Expert
+      CSS3 Wizard
+        Flexbox Sage
+        Grid Master
+        Animation Conjurer
+      JavaScript Archon
+        DOM Manipulator
+        Async Warrior
+        Event Handler
+      UI Framework Magic
+        Bootstrap Summoner
+        TailwindCSS Enchanter
+    Backend Stronghold
+      NodeJS Overlord
+        Server Guardian
+        API Architect
+      ExpressJS Apprentice
+        Route Master
+        Middleware Sage
+      Python Sage
+        Data Sorcerer
+        Automation Master
+      C++ Warlock
+        Memory Manager
+        Performance Optimizer
+    Database Kingdom
+      MongoDB Atlas
+        NoSQL Champion
+        Schema Designer
+      MySQL Oracle
+        Query Master
+        Database Architect
+    3D Reality Forge
+      Blender Artisan
+        Model Creator
+        Texture Wizard
+        Animation Master
+      UnrealEngine Sorcerer
+        World Builder
+        Physics Master
+        Blueprint Crafter
+    Battle Tools
+      Git Version Knight
+      Postman API Tester
+      VSCode Enchanted IDE
 ```
 
 </div>
 
-## 🏆 ACHIEVEMENTS
+## 🏆 BATTLE STATISTICS
 
 <table>
 <tr>
 <td width="50%">
 
-### COMBAT STATS
+### COMBAT ACHIEVEMENTS
 <img src="https://github-readme-stats.vercel.app/api?username=kaushikvishwakarma&show_icons=true&theme=synthwave&hide_border=true" width="100%">
 
 </td>
 <td width="50%">
 
-### SKILL POINTS
+### POWER DISTRIBUTION
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikvishwakarma&layout=compact&theme=synthwave&hide_border=true" width="100%">
 
 </td>
@@ -104,32 +138,32 @@ mindmap
 
 <div align="center">
 
-## 🌐 MULTIPLAYER ZONE
+## 🌐 MULTIPLAYER REALM
 
-[![LinkedIn](https://img.shields.io/badge/Join_My_Network-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushik-vish)
-[![Instagram](https://img.shields.io/badge/Follow_My_Journey-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/unreal_kaushik)
-[![Email](https://img.shields.io/badge/Send_Message-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vkaushik13804@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Join_Guild-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushik-vish)
+[![Instagram](https://img.shields.io/badge/View_Quest_Log-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/unreal_kaushik)
+[![Email](https://img.shields.io/badge/Send_Raven-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vkaushik13804@gmail.com)
 
 ```ascii
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀GAME SAVE POINT⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀CHECKPOINT REACHED⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ┊　　┊　　┊　　┊　　┊
-┊　　┊　　┊　　┊　　★
-┊　　┊　　┊　　☆　　┊
-┊　　┊　　★　　┊　　┊
-┊　　☆　　┊　　┊　　┊
-★　　┊　　┊　　┊　　┊
+┊　　┊　　┊　　┊　　⚔️
+┊　　┊　　┊　　🛡️　　┊
+┊　　┊　　⚔️　　┊　　┊
+┊　　🛡️　　┊　　┊　　┊
+⚔️　　┊　　┊　　┊　　┊
 ```
 
-### 🎮 SECRET FACT
-"They say the Earth is flat... but my 3D models aren't! 🌍"
+### 🎮 LEGENDARY SCROLL
+"In a world of flat-earthers, I craft dimensions! 🌍✨"
 
 </div>
 
-## 🛠️ TOOLS OF THE TRADE
+## ⚔️ ARSENAL OF POWER
 
 <div align="center">
 
-![Tech Stack](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,nodejs,express,python,cpp,mongodb,mysql,blender,unreal,postman&theme=dark)
+![Battle Equipment](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,nodejs,express,python,cpp,mongodb,mysql,blender,unreal,postman&theme=dark)
 
 </div>
 
@@ -137,13 +171,13 @@ mindmap
 
 <div align="center">
 
-### 🌟 CURRENT QUEST STREAK 🌟
+### ⚔️ VICTORY STREAK ⚔️
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaushikvishwakarma&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 
 ```ascii
-PRESS START TO CONNECT
+[PRESS START TO JOIN PARTY]
 ```
 
 </div>
