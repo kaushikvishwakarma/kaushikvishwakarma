@@ -3,10 +3,9 @@
 ```ascii
   ╔══════════════════════════════════════════════════════════════╗
   ║                                                              ║
-  ║   🎮 PLAYER ONE FOUND                                       ║
+  ║   🎮 PLAYER 1                                               ║
   ║   KAUSHIK VISHWAKARMA                                       ║
-  ║   [ LEGENDARY DEVELOPER MODE: ACTIVATED ]                    ║
-  ║   [ CLASS: FULL-STACK WARRIOR | SPECIALIZATION: 3D ARTIST ] ║
+  ║   [ DEVELOPER MODE ACTIVATED ]                              ║
   ║                                                              ║
   ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -21,36 +20,34 @@
 <tr>
 <td width="50%">
 
-### 📌 CHARACTER STATS
+### 📌 QUICK STATS
 ```python
-class LegendaryDeveloper:
+class Developer:
     def __init__(self):
         self.name = "Kaushik Vishwakarma"
-        self.class_type = "Full Stack Warrior"
-        self.specialization = "3D Battle Mage"
-        self.power_languages = ["Python", "JavaScript", "C++"]
-        self.current_quests = ["ExpressJS", "Blender"]
-        self.special_ability = "Code-Art Fusion"
+        self.role = "Full Stack Developer"
+        self.art = "3D Modeler"
+        self.language = ["Python", "JavaScript", "C++"]
+        self.learning = ["ExpressJS", "Blender"]
         
-    def battle_cry(self):
-        print("Transforming imagination into digital reality...")
+    def say_hi(self):
+        print("Making the digital world more interesting...")
 
-hero = LegendaryDeveloper()
-hero.battle_cry()
+me = Developer()
+me.say_hi()
 ```
 
 </td>
 <td width="50%">
 
-### 🎯 ACTIVE QUEST LOG
+### 🎯 CURRENT QUEST
 ```javascript
-// Loading epic mission details...
-const epicQuest = {
-  mainMission: "Mastering the ExpressJS Saga",
-  sideMission: "Crafting Legendary 3D Artifacts",
-  questProgress: "▓▓▓▓▓▓░░░░░ 60%",
-  epicReward: "Full-Stack Sorcery + 3D Mastery",
-  questStatus: "In Progress - Grinding XP"
+// Loading next mission...
+const currentMission = {
+  mainQuest: "Master ExpressJS",
+  sideQuest: "Create Amazing 3D Models",
+  completion: "▓▓▓▓▓▓░░░░░ 60%",
+  nextMilestone: "Building Interactive 3D Web Apps"
 }
 ```
 
@@ -58,21 +55,104 @@ const epicQuest = {
 </tr>
 </table>
 
+<div align="center">
 
+```ascii
+  ╔══════════════════════════════════════════════════════════════╗
+  ║                                                              ║
+  ║   🎮 PLAYER 1                                               ║
+  ║   KAUSHIK VISHWAKARMA                                       ║
+  ║   [ DEVELOPER MODE ACTIVATED ]                              ║
+  ║                                                              ║
+  ╚══════════════════════════════════════════════════════════════╝
+```
 
-## 🏆 BATTLE STATISTICS
+<img src="https://user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif" width="400">
+
+</div>
+
+---
 
 <table>
 <tr>
 <td width="50%">
 
-### COMBAT ACHIEVEMENTS
+### 📌 QUICK STATS
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Kaushik Vishwakarma"
+        self.role = "Full Stack Developer"
+        self.art = "3D Modeler"
+        self.language = ["Python", "JavaScript", "C++"]
+        self.learning = ["ExpressJS", "Blender"]
+        
+    def say_hi(self):
+        print("Making the digital world more interesting...")
+
+me = Developer()
+me.say_hi()
+```
+
+</td>
+<td width="50%">
+
+### 🎯 CURRENT QUEST
+```javascript
+// Loading next mission...
+const currentMission = {
+  mainQuest: "Master ExpressJS",
+  sideQuest: "Create Amazing 3D Models",
+  completion: "▓▓▓▓▓▓░░░░░ 60%",
+  nextMilestone: "Building Interactive 3D Web Apps"
+}
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+## 💻 SKILL TREE UNLOCKED
+
+```mermaid
+mindmap
+  root((KAUSHIK))
+    Frontend
+      HTML5
+      CSS3
+      JavaScript
+      Bootstrap
+      TailwindCSS
+    Backend
+      NodeJS
+      ExpressJS
+      Python
+      C++
+    Database
+      MongoDB
+      MySQL
+    3D Skills
+      Blender
+      UnrealEngine
+```
+
+</div>
+
+## 🏆 ACHIEVEMENTS
+
+<table>
+<tr>
+<td width="50%">
+
+### COMBAT STATS
 <img src="https://github-readme-stats.vercel.app/api?username=kaushikvishwakarma&show_icons=true&theme=synthwave&hide_border=true" width="100%">
 
 </td>
 <td width="50%">
 
-### POWER DISTRIBUTION
+### SKILL POINTS
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikvishwakarma&layout=compact&theme=synthwave&hide_border=true" width="100%">
 
 </td>
@@ -81,32 +161,32 @@ const epicQuest = {
 
 <div align="center">
 
-## 🌐 MULTIPLAYER REALM
+## 🌐 MULTIPLAYER ZONE
 
-[![LinkedIn](https://img.shields.io/badge/Join_Guild-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushik-vish)
-[![Instagram](https://img.shields.io/badge/View_Quest_Log-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/unreal_kaushik)
-[![Email](https://img.shields.io/badge/Send_Raven-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vkaushik13804@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Join_My_Network-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushik-vish)
+[![Instagram](https://img.shields.io/badge/Follow_My_Journey-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/unreal_kaushik)
+[![Email](https://img.shields.io/badge/Send_Message-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vkaushik13804@gmail.com)
 
 ```ascii
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀CHECKPOINT REACHED⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀GAME SAVE POINT⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ┊　　┊　　┊　　┊　　┊
-┊　　┊　　┊　　┊　　⚔️
-┊　　┊　　┊　　🛡️　　┊
-┊　　┊　　⚔️　　┊　　┊
-┊　　🛡️　　┊　　┊　　┊
-⚔️　　┊　　┊　　┊　　┊
+┊　　┊　　┊　　┊　　★
+┊　　┊　　┊　　☆　　┊
+┊　　┊　　★　　┊　　┊
+┊　　☆　　┊　　┊　　┊
+★　　┊　　┊　　┊　　┊
 ```
 
-### 🎮 LEGENDARY SCROLL
-"In a world of flat-earthers, I craft dimensions! 🌍✨"
+### 🎮 SECRET FACT
+"They say the Earth is flat... but my 3D models aren't! 🌍"
 
 </div>
 
-## ⚔️ ARSENAL OF POWER
+## 🛠️ TOOLS OF THE TRADE
 
 <div align="center">
 
-![Battle Equipment](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,nodejs,express,python,cpp,mongodb,mysql,blender,unreal,postman&theme=dark)
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,nodejs,express,python,cpp,mongodb,mysql,blender,unreal,postman&theme=dark)
 
 </div>
 
@@ -114,13 +194,78 @@ const epicQuest = {
 
 <div align="center">
 
-### ⚔️ VICTORY STREAK ⚔️
+### 🌟 CURRENT QUEST STREAK 🌟
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaushikvishwakarma&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
 
 ```ascii
-[PRESS START TO JOIN PARTY]
+PRESS START TO CONNECT
+```
+
+</div>
+
+## 🏆 ACHIEVEMENTS
+
+<table>
+<tr>
+<td width="50%">
+
+### COMBAT STATS
+<img src="https://github-readme-stats.vercel.app/api?username=kaushikvishwakarma&show_icons=true&theme=synthwave&hide_border=true" width="100%">
+
+</td>
+<td width="50%">
+
+### SKILL POINTS
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikvishwakarma&layout=compact&theme=synthwave&hide_border=true" width="100%">
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+## 🌐 MULTIPLAYER ZONE
+
+[![LinkedIn](https://img.shields.io/badge/Join_My_Network-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushik-vish)
+[![Instagram](https://img.shields.io/badge/Follow_My_Journey-%23000000.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/unreal_kaushik)
+[![Email](https://img.shields.io/badge/Send_Message-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vkaushik13804@gmail.com)
+
+```ascii
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀GAME SAVE POINT⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+┊　　┊　　┊　　┊　　┊
+┊　　┊　　┊　　┊　　★
+┊　　┊　　┊　　☆　　┊
+┊　　┊　　★　　┊　　┊
+┊　　☆　　┊　　┊　　┊
+★　　┊　　┊　　┊　　┊
+```
+
+### 🎮 SECRET FACT
+"They say the Earth is flat... but my 3D models aren't! 🌍"
+
+</div>
+
+## 🛠️ TOOLS OF THE TRADE
+
+<div align="center">
+
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,nodejs,express,python,cpp,mongodb,mysql,blender,unreal,postman&theme=dark)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 CURRENT QUEST STREAK 🌟
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaushikvishwakarma&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+
+```ascii
+PRESS START TO CONNECT
 ```
 
 </div>
